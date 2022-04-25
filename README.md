@@ -3,7 +3,7 @@ Goal: To implement a simple path planner, inverse kinematics function, controlle
 The final project for the Ohio State University class, Real Time Robotics (ME5463).
 
 ### Team Member Responsibilities:
-PD Controller - Michael Napoli
-Inverse Kinematics - Michael Napoli
-Path Planner - Dylan Trainor
-Environment/Simulation - Jesse Zhang, Chunhui Wang
+PD Controller - Michael Napoli  
+Inverse Kinematics - Michael Napoli  
+Path Planner - Dylan Trainor  
+Environment/Simulation - Jesse Zhang, Chunhui Wang  
